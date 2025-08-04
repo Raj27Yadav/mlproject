@@ -5,9 +5,6 @@ mlproject.egg-info/SOURCES.txt
 mlproject.egg-info/dependency_links.txt
 mlproject.egg-info/requires.txt
 mlproject.egg-info/top_level.txt
-mlproject.egg-info/notebook/1 . EDA STUDENT PERFORMANCE .ipynb
-mlproject.egg-info/notebook/2. MODEL TRAINING.ipynb
-mlproject.egg-info/notebook/data/stud.csv
 src/__init__.py
 src/exception.py
 src/logger.py
